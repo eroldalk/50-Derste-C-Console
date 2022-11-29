@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\Console-50-Ders\\Console-50-Ders\\Console-50-Ders.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\50-Derste-C-Console\\Console-50-Ders\\Console-50-Ders\\Console-50-Ders.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\Console-50-Ders\\Console-50-Ders\\Console-50-Ders.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\50-Derste-C-Console\\Console-50-Ders\\Console-50-Ders\\Console-50-Ders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Console-50-Ders\\Console-50-Ders\\Console-50-Ders.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\50-Derste-C-Console\\Console-50-Ders\\Console-50-Ders\\Console-50-Ders.csproj",
         "projectName": "Console-50-Ders",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Console-50-Ders\\Console-50-Ders\\Console-50-Ders.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\50-Derste-C-Console\\Console-50-Ders\\Console-50-Ders\\Console-50-Ders.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Console-50-Ders\\Console-50-Ders\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\50-Derste-C-Console\\Console-50-Ders\\Console-50-Ders\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",

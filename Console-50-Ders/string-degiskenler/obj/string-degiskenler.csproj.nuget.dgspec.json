@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\Console-50-Ders\\string-degiskenler\\string-degiskenler.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\50-Derste-C-Console\\Console-50-Ders\\string-degiskenler\\string-degiskenler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\Console-50-Ders\\string-degiskenler\\string-degiskenler.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\50-Derste-C-Console\\Console-50-Ders\\string-degiskenler\\string-degiskenler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Console-50-Ders\\string-degiskenler\\string-degiskenler.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\50-Derste-C-Console\\Console-50-Ders\\string-degiskenler\\string-degiskenler.csproj",
         "projectName": "string-degiskenler",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Console-50-Ders\\string-degiskenler\\string-degiskenler.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\50-Derste-C-Console\\Console-50-Ders\\string-degiskenler\\string-degiskenler.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Console-50-Ders\\string-degiskenler\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\50-Derste-C-Console\\Console-50-Ders\\string-degiskenler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",

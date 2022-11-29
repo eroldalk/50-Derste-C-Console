@@ -72,18 +72,38 @@ namespace Console_50_Ders
 
 
 
-            string ad, soyad, yas, meslek, sehir;
+            //string ad, soyad, sehir;
+
+            //Console.WriteLine("Ad: ");
+            //ad = Console.ReadLine();
+
+            //Console.WriteLine("Soyad: ");
+            //soyad = Console.ReadLine();
+
+            //Console.WriteLine("Şehir: ");
+            //sehir = Console.ReadLine();
+
+            //Console.WriteLine("Ad - Soyad - Şehir {0} {1} {2}", ad, soyad, sehir);
+            //Console.Read();
 
 
 
 
 
 
+            string ad, soyad, sehir;
 
+            Console.WriteLine("Ad: ");
+            ad = Console.ReadLine();
 
+            Console.WriteLine("Soyad: ");
+            soyad = Console.ReadLine();
 
+            Console.WriteLine("Şehir: ");
+            sehir = Console.ReadLine();
 
-
+            Console.WriteLine("Ad: {0} Soyad: {1} Şehir: {2} ", ad, soyad, sehir);
+            Console.Read();
 
 
 
