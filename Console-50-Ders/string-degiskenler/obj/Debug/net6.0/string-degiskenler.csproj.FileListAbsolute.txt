@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Console-50-Ders\string-degiskenler\bin\Debug\net6.0\string-degiskenler.exe
+C:\Users\Lenovo\Desktop\Console-50-Ders\string-degiskenler\bin\Debug\net6.0\string-degiskenler.deps.json
+C:\Users\Lenovo\Desktop\Console-50-Ders\string-degiskenler\bin\Debug\net6.0\string-degiskenler.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Console-50-Ders\string-degiskenler\bin\Debug\net6.0\string-degiskenler.dll
+C:\Users\Lenovo\Desktop\Console-50-Ders\string-degiskenler\bin\Debug\net6.0\ref\string-degiskenler.dll
+C:\Users\Lenovo\Desktop\Console-50-Ders\string-degiskenler\bin\Debug\net6.0\string-degiskenler.pdb
+C:\Users\Lenovo\Desktop\Console-50-Ders\string-degiskenler\obj\Debug\net6.0\string-degiskenler.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Console-50-Ders\string-degiskenler\obj\Debug\net6.0\string-degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Console-50-Ders\string-degiskenler\obj\Debug\net6.0\string-degiskenler.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Console-50-Ders\string-degiskenler\obj\Debug\net6.0\string-degiskenler.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Console-50-Ders\string-degiskenler\obj\Debug\net6.0\string-degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Console-50-Ders\string-degiskenler\obj\Debug\net6.0\string-degiskenler.dll
+C:\Users\Lenovo\Desktop\Console-50-Ders\string-degiskenler\obj\Debug\net6.0\ref\string-degiskenler.dll
+C:\Users\Lenovo\Desktop\Console-50-Ders\string-degiskenler\obj\Debug\net6.0\string-degiskenler.pdb
+C:\Users\Lenovo\Desktop\Console-50-Ders\string-degiskenler\obj\Debug\net6.0\string-degiskenler.genruntimeconfig.cache

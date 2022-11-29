@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "56d2b162-7682-4491-98e8-05dedec05901": {
+      "ProjectGuid": "56d2b162-7682-4491-98e8-05dedec05901",
+      "DisplayName": "Console-50-Ders",
+      "ColorIndex": 0
+    },
+    "45c149df-3eee-4aa1-a29f-c9f72e116a33": {
+      "ProjectGuid": "45c149df-3eee-4aa1-a29f-c9f72e116a33",
+      "DisplayName": "string-degiskenler",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

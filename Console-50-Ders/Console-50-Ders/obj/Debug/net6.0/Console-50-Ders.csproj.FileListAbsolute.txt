@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Console-50-Ders\Console-50-Ders\obj\Debug\net6.0\Console-50-Ders.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Console-50-Ders\Console-50-Ders\obj\Debug\net6.0\Console-50-Ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Console-50-Ders\Console-50-Ders\obj\Debug\net6.0\Console-50-Ders.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Console-50-Ders\Console-50-Ders\obj\Debug\net6.0\Console-50-Ders.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Console-50-Ders\Console-50-Ders\obj\Debug\net6.0\Console-50-Ders.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Console-50-Ders\Console-50-Ders\bin\Debug\net6.0\Console-50-Ders.exe
+C:\Users\Lenovo\Desktop\Console-50-Ders\Console-50-Ders\bin\Debug\net6.0\Console-50-Ders.deps.json
+C:\Users\Lenovo\Desktop\Console-50-Ders\Console-50-Ders\bin\Debug\net6.0\Console-50-Ders.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Console-50-Ders\Console-50-Ders\bin\Debug\net6.0\Console-50-Ders.dll
+C:\Users\Lenovo\Desktop\Console-50-Ders\Console-50-Ders\bin\Debug\net6.0\ref\Console-50-Ders.dll
+C:\Users\Lenovo\Desktop\Console-50-Ders\Console-50-Ders\bin\Debug\net6.0\Console-50-Ders.pdb
+C:\Users\Lenovo\Desktop\Console-50-Ders\Console-50-Ders\obj\Debug\net6.0\Console-50-Ders.dll
+C:\Users\Lenovo\Desktop\Console-50-Ders\Console-50-Ders\obj\Debug\net6.0\ref\Console-50-Ders.dll
+C:\Users\Lenovo\Desktop\Console-50-Ders\Console-50-Ders\obj\Debug\net6.0\Console-50-Ders.pdb
+C:\Users\Lenovo\Desktop\Console-50-Ders\Console-50-Ders\obj\Debug\net6.0\Console-50-Ders.genruntimeconfig.cache
